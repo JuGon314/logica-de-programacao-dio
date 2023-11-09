@@ -1,6 +1,3 @@
-// let vitorias = getElementById("vitorias").value;
-// let derrotas = getElementById("derrotas").value;
-
 function dadosJogador(vitorias, derrotas) {
     saldoVitorias = vitorias - derrotas;
     
